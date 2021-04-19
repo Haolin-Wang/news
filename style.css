@@ -1,1 +1,26 @@
-
+.textinput{
+        background-color: #CBCFE4;
+        border-color: black;
+        border-width: 1px;
+        height: 20px;
+      }
+#lastname{
+  width: 50px;
+  height: 20px;
+}
+#firstname{
+  width: 100px;
+  height: 20px;
+}
+#job{
+  height: 20px;
+  width: 70px;
+}
+#reset{
+  width: 60px;
+  height: 20px;
+}
+#submit{
+  width: 60px;
+  height: 20px;
+}
